@@ -1,1 +1,10 @@
 esye es el contenido
+
+
+git add .
+git commit -m "commit inicial"
+git remote add origin "https://github.com/tumiconsultor/dotacion.git"
+git push -u origin main (aqui te va a pedir que te loguees a github en una ventana,
+seleccionas la primera opcion por navegador)
+
+Luego de esto ya estarian los cambios en el repositorio
